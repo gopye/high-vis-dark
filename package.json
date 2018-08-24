@@ -1,15 +1,15 @@
 {
-  "name": "now-syntax",
+  "name": "high-vis-dark",
   "theme": "syntax",
-  "version": "0.2.4",
-  "author": "Daniel Illouz",
-  "description": "Minimalistic dark syntax theme inspired by the zeit now website.",
+  "version": "0.2.5",
+  "author": "gopye",
+  "description": "Fork of now-syntax with less visible invisible characters.",
   "keywords": [
     "syntax",
     "theme",
     "dark"
   ],
-  "repository": "https://github.com/danillouz/now-syntax",
+  "repository": "https://github.com/gopye/high-vis-dark",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
