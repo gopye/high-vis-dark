@@ -5,3 +5,5 @@ Just some small tweaks for personal preference.
 A minimalistic dark syntax theme inspired by the [zeit now](https://zeit.co/now) website, with some minor changes.
 
 thanks @danillouz
+
+![screenshot](https://raw.githubusercontent.com/gopye/high-vis-dark/3c1f736311af07aaa2437cddfde125dca272927d/screenshots/js.png "screenshot")
