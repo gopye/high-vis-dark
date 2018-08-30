@@ -1,7 +1,7 @@
 {
   "name": "high-vis-dark",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "author": "gopye",
   "description": "Fork of now-syntax with less visible invisible characters.",
   "keywords": [
